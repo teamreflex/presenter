@@ -1,5 +1,5 @@
 {
-    "name": "robclancy/presenter",
+    "name": "team-reflex/presenter",
     "description": "This is a simple library to help make a Presenter for your objects.",
     "keywords": ["laravel", "presenter", "decorator"],
     "license": "DBAD",
