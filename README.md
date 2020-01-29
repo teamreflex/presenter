@@ -2,6 +2,8 @@
 
 This library provides a simple class to help make a `Presenter` for your objects or arrays. It also has little extras for use within Laravel with minimal extra code in your controllers (in most cases no extra code).
 
+**Deprecated:** This was only forked to maintain compatibility for a company project. Just use robclancy/presenter.
+
 [![Build Status](https://secure.travis-ci.org/robclancy/presenter.png)](http://travis-ci.org/robclancy/presenter)
 
 ## Table of Contents
